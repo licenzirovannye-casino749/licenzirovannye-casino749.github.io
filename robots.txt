@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://licenzirovannye-casino749.github.io/sitemap.xml

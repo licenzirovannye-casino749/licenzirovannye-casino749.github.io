@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Карта регуляторов">
+  <rect width="64" height="64" rx="13" fill="#eef1f4"/>
+  <path d="M16 20h32v24H16z" fill="none" stroke="#0f766e" stroke-width="2.4"/>
+  <path d="M16 28h32M28 20v24M40 20v24" stroke="#0f766e" stroke-width="1.6" opacity=".55"/>
+  <path d="M19 35.6l3.3 3.3L28 33" fill="none" stroke="#0f766e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
